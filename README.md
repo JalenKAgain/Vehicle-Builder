@@ -33,7 +33,8 @@ Contributions can go along way for a person thats trying to find their way.
 
 
 ## Links
- "https://drive.google.com/file/d/1W5yqwaL1HKoVUPwQYPw1NszjG-bCCcO3/preview" width="640" height="480" 
+Click the link for walk-through video.
+ https://drive.google.com/file/d/1W5yqwaL1HKoVUPwQYPw1NszjG-bCCcO3/preview 
 
 ## Questions
 If you have any questions feel free to reach me at the following:
