@@ -32,7 +32,7 @@ This application gives users a sense of personalization, allowing them to precis
 Contributions can go along way for a person thats trying to find their way.
 
 
-## Links
+## Link
 Click the link for walk-through video.
  https://drive.google.com/file/d/1W5yqwaL1HKoVUPwQYPw1NszjG-bCCcO3/preview 
 
